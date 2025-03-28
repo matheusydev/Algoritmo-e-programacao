@@ -16,5 +16,5 @@ media3 = nota3 * peso3
 
 mediaponderada = (media1 + media2 + media3) / (peso1 + peso2 + peso3) 
 
-#Saida
+#Saída
 print(f"a média ponderada é: {mediaponderada}")

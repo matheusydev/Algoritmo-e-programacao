@@ -12,6 +12,6 @@ tempo = int(input("insira o tempo: "))
 juros = (capital * taxa * tempo) / 100
 jurossimples = capital * juros
 
-#Saida
+#Saída
 
 print(f"o juros simples é de: {jurossimples:.2f}")

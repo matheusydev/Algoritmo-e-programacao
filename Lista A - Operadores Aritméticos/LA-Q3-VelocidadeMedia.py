@@ -9,5 +9,5 @@ velocidade = int(input("insira a velocidade: "))
 #Processamento
 velocidademedia = distancia / velocidade
 
-#Saida
+#Saída
 print(f"a velocidade média é {velocidademedia}")

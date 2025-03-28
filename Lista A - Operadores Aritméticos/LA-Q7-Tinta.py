@@ -10,6 +10,6 @@ largura = int(input("insira a largura:"))
 
 Latas = (altura / largura) 
 
-#Saida
+#Saída
 
 print(f"{Latas} latas de tinta")

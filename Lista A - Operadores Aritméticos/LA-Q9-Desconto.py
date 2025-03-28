@@ -10,6 +10,6 @@ desconto = int(input("insira o desconto: "))
 
 resultado = preco - (preco * (desconto / 100))
 
-#Saida
+#Sada
 
 print(f"o valor final do produto é: {resultado}")

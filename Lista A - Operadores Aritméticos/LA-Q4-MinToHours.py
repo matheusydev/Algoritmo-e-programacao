@@ -10,7 +10,7 @@ tempo = int(input("insira o tempo em minutos: "))
 horas = tempo // 60
 minutos = tempo % 60
 
-#saida
+#saída
 
 print(f"{horas} hora(s) e {minutos} minuto(s)") 
 

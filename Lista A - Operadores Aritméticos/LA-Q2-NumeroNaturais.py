@@ -9,5 +9,5 @@ somadopar = (numero + 1)
 totaldepar = (numero / 2)
 resultado = somadopar * totaldepar
 
-#Saida
+#Saída
 print(f"a quantidade de números naturais é: {resultado}")

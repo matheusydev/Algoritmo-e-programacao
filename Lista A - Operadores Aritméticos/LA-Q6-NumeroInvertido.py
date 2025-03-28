@@ -11,6 +11,6 @@ centena = numero // 100
 dezena = (numero % 100) // 10
 unidade = (numero % 100) % 10
 
-#Saida  
+#Saída  
 
 print(f"o inverso de {numero} é: {unidade}{dezena}{centena}")
