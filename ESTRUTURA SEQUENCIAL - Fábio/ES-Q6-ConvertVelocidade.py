@@ -2,11 +2,13 @@ print(">>>>>>>>>>     Matheusydev     <<<<<<<<<<")
 print("-----------------------------------------")
 
 # Entrada
-matheus = "lindo"
+
+velokm = float(input("entre com a velocidade em Km/h: "))
 
 # Processamento
 
+velom = velokm / 3.6
+
 # Saída
-for i in range(169):
-    print(f'matheus é {matheus}')
-    
+
+print(f"a velocidade de {velokm}km/h é {velom:.2f}m/s")
