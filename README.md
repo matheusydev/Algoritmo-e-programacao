@@ -15,7 +15,7 @@ Este repositório contém uma coleção de exercícios, algoritmos e desafios de
 ## 🔧 Tecnologias utilizadas
 
 - **Python 3.12.9 - Linguagem de programação principal.
-- **Editor de código** - Pode ser utilizado qualquer editor de sua preferência, mas recomendamos o [VSCode](https://code.visualstudio.com/) para uma experiência mais rica.
+- **Editor de código** - [VSCode](https://code.visualstudio.com/).
 
 ## 📂 Estrutura do Repositório
 
