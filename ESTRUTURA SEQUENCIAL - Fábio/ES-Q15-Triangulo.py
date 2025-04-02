@@ -12,5 +12,5 @@ resultado = (base * altura) / 2
 
 # Saída
 
-print(f"a área do triangulo é {}")
+print(f"a área do triangulo é {resultado:.2f}")
 
