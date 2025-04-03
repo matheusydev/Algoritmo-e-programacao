@@ -16,7 +16,6 @@ def calcularCDB():
     valorCDB = jurosCompostoCDB - investimento
     return valorCDB
 
-
 #Função para calcular o CDC
 def calcularCDC():
     taxaCDC = float(input("insira a taxa do CDC para cada mês: "))
@@ -25,7 +24,6 @@ def calcularCDC():
     valorCDC = jurosCompostoCDC - investimento
     return valorCDC
     
- 
 # Saída
 print("\n\n========== CALCULAR O CDB ==========")
 valorCDB = calcularCDB()
