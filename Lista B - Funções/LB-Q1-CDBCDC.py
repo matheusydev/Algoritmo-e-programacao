@@ -33,3 +33,4 @@ print(f"CDB = {valorCDB:.2f}")
 print("\n\n========== CALCULAR O CDC ==========")
 valorCDC = calcularCDC()
 print(f"CDC  = {valorCDC:.2f}")
+

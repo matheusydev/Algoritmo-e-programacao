@@ -9,7 +9,7 @@ raio = float(input("Insira o valor do raio: "))
 
 # Processamento
 
-volume = (4/3) * pi * raio ** 3
+volume = (4 * pi * (raio ** 3)) / 3
 
 # Saída
 
