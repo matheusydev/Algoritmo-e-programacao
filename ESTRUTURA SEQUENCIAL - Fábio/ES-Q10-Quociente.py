@@ -13,5 +13,4 @@ resto = num1 % num2
 
 # Saída
 
-print(f"o Quociente da divisão é {quociente} e o resto é {resto}")
-
+print(f"a divisão de {num1} com {num2} tem o ({quociente})quociente e ({resto})resto")

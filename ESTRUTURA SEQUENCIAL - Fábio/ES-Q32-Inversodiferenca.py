@@ -11,6 +11,14 @@ centena = numero // 100
 dezena = (numero % 100) // 10
 unidade = (numero % 100) % 10 
 
+centenainverso = unidade * 100
+dezenainverso = dezena * 10
+unidadeinverso = centena * 1
+
+inverso = centenainverso + dezenainverso + unidadeinverso
+
+subtracao = numero - inverso
+
 # Saída
 
-print(f"{numero} --> ({centena})centena, ({dezena})dezena e ({unidade})unidade")
+print(f"{numero} - {inverso} = {subtracao}")
