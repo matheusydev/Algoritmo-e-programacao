@@ -9,6 +9,7 @@ def square(t, length):
         t.lt(90)        # Gira 90 graus para a esquerda
 
 
+
 def polyline(t, n, length, angle):
     """Desenha uma sequência de segmentos de linha (polilinha).
 
