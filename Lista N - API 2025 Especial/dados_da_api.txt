@@ -1,0 +1,45 @@
+Horario de Inicio:13:30
+Horario de Terminio: 15:30
+Tolerancia: + 15 --> aproximadamente: 15:45 (tempo gasto pra criar o arquivo, colocar os dados e etc)
+
+--------------- Ordem: 1, 7, 10, 5, 6
+--------------- Questão 1:
+Status: Feito e Funcionando
+Tempo: 13 minutos (13:43)
+Dificuldade: Fácil
+--------------- Questão 2:
+Status:
+Tempo:
+Dificuldade: 
+--------------- Questão 3:
+Status:
+Tempo:
+Dificuldade: 
+--------------- Questão 4:
+Status:
+Tempo:
+Dificuldade: 
+--------------- Questão 5:
+Status: Feita e Funcionado
+Tempo: 27 minutos (14:52)
+Dificuldade: media para dificil
+--------------- Questão 6:
+Status: Incompleta(Faltou finalizar e alguns detalhes)
+Tempo: 38 minutos (15:30)
+Dificuldade: Dificil 
+--------------- Questão 7:
+Status: Feito e Funcionado
+Tempo: 21 minutos (14:03)
+Dificuldade: Fácil com detalhes(aprendi a usar o split())
+--------------- Questão 8:
+Status:
+Tempo:
+Dificuldade: 
+--------------- Questão 9:
+Status:
+Tempo:
+Dificuldade: 
+--------------- Questão 10:
+Status:Feito e Funcionando
+Tempo: 22 minutos (14:25)
+Dificuldade: Media para dificil 
