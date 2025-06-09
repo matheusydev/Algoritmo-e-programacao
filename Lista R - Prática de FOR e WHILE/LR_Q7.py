@@ -1,14 +1,3 @@
-# Contexto/Problema: Um pequeno restaurante precisa gerenciar seu estoque de alimentos, registrando
-# a data de compra e a data de validade de cada item. O programa deve permitir que o usuário insira
-# vários itens no estoque. Para cada item, o usuário deve informar o nome do alimento, a quantidade, a
-# data de compra e a data de validade (ambas no formato DD/MM/AAAA). O programa deve identificar e
-# listar para cada alimento quantos dias ainda de validade próxima ou já está vencido. (Considerar 12
-# meses de 30 dias exatos cada ano)
-# ● Entrada: O usuário deve informar a quantidade de itens a serem cadastrados no estoque. Para cada
-# item, o usuário deve informar o nome, a quantidade, a data de compra e a data de validade.
-# ● Saída Esperada: Uma lista de alimentos que estão com a validade próxima ou vencidos, informando o
-# nome do alimento e a data de validade.
-
 def main():
 
     itens = []
@@ -36,7 +25,6 @@ def main():
             "validade": dias_restante,
             "data": data
         })
-
 
 
         # dia_restante = (dia_compra - dia_vencimento) + ((mes_compra * 30) - (mes_vencimento * 30)) + ((ano_compra * 360) - (ano_vencimento * 360))
