@@ -19,5 +19,4 @@ def main():
         I += 0.2
         aux += 0.2
 
-
 main()
